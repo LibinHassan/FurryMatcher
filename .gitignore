@@ -1,0 +1,6 @@
+__pycache__/
+dataset/
+dataset_v2/
+uploaded_photos/
+breed_model.keras
+
