@@ -1,6 +1,6 @@
 # FurryMatcher
 
-FurryMatcher is an AI-supported pet adoption matching system developed as part of an MSc Computer Science project at Queen Mary University of London.
+FurryMatcher is an AI supported pet adoption matching system developed as part of an MSc Computer Science project at Queen Mary University of London.
 
 The system aims to improve pet adoption by helping users find cats and dogs that match their preferences and lifestyle.
 
@@ -50,7 +50,7 @@ The system aims to improve pet adoption by helping users find cats and dogs that
 
 # FurryMatcher
 
-FurryMatcher is an AI-supported pet adoption matching system developed as part of an MSc Computer Science project at Queen Mary University of London.
+FurryMatcher is an AI supported pet adoption matching system developed as part of an MSc Computer Science project at Queen Mary University of London.
 
 The system aims to improve pet adoption by helping users find cats and dogs that match their preferences and lifestyle.
 
